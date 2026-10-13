@@ -144,6 +144,10 @@ body {
   height: 50px;
 }
 
+#other-weather{
+  font-size: 15px;
+}
+
 @media screen and (max-width: 600px) {
   .container {
     height: 90%;
